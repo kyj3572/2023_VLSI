@@ -1,0 +1,5 @@
+# Python pycache
+core/__pycache__/
+data/__pycache__/
+model/__pycache__/
+utils/__pycache__/
